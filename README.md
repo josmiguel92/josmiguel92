@@ -8,8 +8,6 @@
 ![](https://img.shields.io/badge/LinkedIn-blue?2&style=flat-square&logo=linkedin&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=josmiguel92&style=flat-square&color=37ae5f)
-
 <!---
 josmiguel92/josmiguel92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
